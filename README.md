@@ -37,4 +37,4 @@ To guide the analysis and explore the data, the following questions will be answ
 6. What analysis can be derived from the date and its extractable features?
 7. What is the difference between RMSLE, RMSE, MSE (or why is the MAE greater than all of them?)
    
-The task is to build a model that can accurately predict the unit sales for thousands of items based on the provided data.
+The ultimate objective is to build a model that accurately predicts the unit sales for thousands of items.
