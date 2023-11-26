@@ -1,10 +1,13 @@
 # Store-Sales-Time-Series-Forecasting---ML-Regression-Project
 This project focuses on time series forecasting to predict store sales for Corporation Favorita, a large Ecuadorian-based grocery retailer. The goal is to build a model that accurately predicts the unit sales for thousands of items sold at different Favorita stores.
 
-# Business Understanding
-## Introduction
-This project focuses on time series forecasting to predict store sales for Corporation Favorita, a large Ecuadorian-based grocery retailer. The objective is to build a model that accurately predicts the unit sales for thousands of items sold at different Favorita stores.
+## Summary
+|     Jupyter Notebook                       |     Power BI Dashboard|     Published Article|    Deployed App on Hugging Face   
+| -------------                  | -------------    | -------------    |    -----------------
+|[Notebook with code and full analysis](https://github.com/rasmodev/Time-Series-Forecasting---ML-Regression-Project/blob/main/Regression_Time_Series.ipynb)|  [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGE2NmNlNWQtMzU1Ny00MzQ2LTljMGQtNTA1ZmYxYmY4MDhhIiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9) |  [Published Article on Medium](https://medium.com/@rasmowanyama/title-time-series-forecasting-for-store-sales-a-comprehensive-guide-33346108c2fe)
 
+
+# Business Understanding
 ## Objectives
 **Understand the data:** Gain insights into the store sales data, including store-specific information, product families, promotions, and sales numbers. This understanding will enable the company to make informed business decisions.
 
