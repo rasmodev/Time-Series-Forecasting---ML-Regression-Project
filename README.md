@@ -4,7 +4,7 @@ This project focuses on time series forecasting to predict store sales for Corpo
 ## Summary
 |     Jupyter Notebook                       |     Power BI Dashboard|     Published Article|    Deployed App on Hugging Face   
 | -------------                  | -------------    | -------------    |    -----------------
-|[Notebook with code and full analysis](https://github.com/rasmodev/Time-Series-Forecasting---ML-Regression-Project/blob/main/Regression_Time_Series.ipynb)|  [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGE2NmNlNWQtMzU1Ny00MzQ2LTljMGQtNTA1ZmYxYmY4MDhhIiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9) |  [Published Article on Medium](https://medium.com/@rasmowanyama/title-time-series-forecasting-for-store-sales-a-comprehensive-guide-33346108c2fe) |  [Deployed App on Huggingface]()
+|[Notebook with code and full analysis](https://github.com/rasmodev/Time-Series-Forecasting---ML-Regression-Project/blob/main/Regression_Time_Series.ipynb)|  [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGE2NmNlNWQtMzU1Ny00MzQ2LTljMGQtNTA1ZmYxYmY4MDhhIiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9) |  [Published Article on Medium](https://medium.com/@rasmowanyama/title-time-series-forecasting-for-store-sales-a-comprehensive-guide-33346108c2fe) |  [Deployed App on Huggingface](https://rasmodev-sales-prediction-app.hf.space/)
 
 
 # Business Understanding
